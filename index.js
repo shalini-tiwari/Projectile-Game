@@ -230,7 +230,7 @@ function animate() {
                 }
                 else{
 
-                    score += 300
+                    score += 250
                     scoreEl.innerText = score;
     
 
